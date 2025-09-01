@@ -1,2 +1,2 @@
 # wine_data_analysis
-Explored the Wine dataset to uncover natural groupings among wine samples based on chemical properties. 
+Explored the Wine dataset to uncover natural groupings among wine samples based on chemical properties. Standardized features to ensure uniform scaling, then applied dimensionality reduction (PCA) for visualization and interpretability. Used KMeans and Hierarchical Clustering to identify optimal clusters, validating results with silhouette scores and dendrograms. Interpreted cluster characteristics to assess patterns in alcohol content, flavonoids, and other key compounds. Project highlights the power of unsupervised learning in exploratory data analysis.
